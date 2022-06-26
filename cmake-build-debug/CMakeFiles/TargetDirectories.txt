@@ -1,0 +1,3 @@
+G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/CMakeFiles/PROIECT_MARE.dir
+G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/CMakeFiles/rebuild_cache.dir

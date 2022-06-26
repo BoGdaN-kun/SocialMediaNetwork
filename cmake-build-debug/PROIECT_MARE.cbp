@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PROIECT_MARE"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PROIECT_MARE">
+				<Option output="G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/PROIECT_MARE.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 PROIECT_MARE"/>
+					<CompileFile command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PROIECT_MARE/fast">
+				<Option output="G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/PROIECT_MARE.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="G:/CLION/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 PROIECT_MARE/fast"/>
+					<CompileFile command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/CLION/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;G:/STRUCTURI DE DATE/PROIECT_MARE/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/DataStructures/List.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/DataStructures/Multimap.cpp">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/DataStructures/Multimap.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/DataStructures/Node.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Domain/Friend.cpp">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Domain/Friend.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Domain/Messages.cpp">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Domain/Messages.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Domain/User.cpp">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Domain/User.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Exceptions/MyExceptions.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Repository/Repository.cpp">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Repository/Repository.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Service/Service.cpp">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Service/Service.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Tests/PRESAVES.cpp">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Tests/PRESAVES.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Tests/TESTS.cpp">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/Tests/TESTS.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/UserInterface/UI.cpp">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/UserInterface/UI.h">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/main.cpp">
+			<Option target="PROIECT_MARE"/>
+		</Unit>
+		<Unit filename="G:/STRUCTURI DE DATE/PROIECT_MARE/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

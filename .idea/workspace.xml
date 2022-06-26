@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PROIECT_MARE" targetName="PROIECT_MARE" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="627bb64b-64e5-4a9b-b9ff-beb693aaea66" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28utJg0s9VUCj6BRLWqOGxfjdW5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+    <property name="structure.view.defaults.are.configured" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\STRUCTURI DE DATE\PROIECT_MARE\DataStructures" />
+      <recent name="G:\STRUCTURI DE DATE\PROIECT_MARE\Exceptions" />
+      <recent name="G:\STRUCTURI DE DATE\PROIECT_MARE\Repository" />
+      <recent name="G:\STRUCTURI DE DATE\PROIECT_MARE\Service" />
+      <recent name="G:\STRUCTURI DE DATE\PROIECT_MARE\UserInterface" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PROIECT_MARE" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PROIECT_MARE" TARGET_NAME="PROIECT_MARE" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PROIECT_MARE" RUN_TARGET_NAME="PROIECT_MARE">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="627bb64b-64e5-4a9b-b9ff-beb693aaea66" name="Changes" comment="" />
+      <created>1652040123418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652040123418</updated>
+      <workItem from="1652040125731" duration="2461000" />
+      <workItem from="1652078231441" duration="792000" />
+      <workItem from="1652085099074" duration="3600000" />
+      <workItem from="1652676398433" duration="2932000" />
+      <workItem from="1652814241379" duration="9842000" />
+      <workItem from="1652824806614" duration="4346000" />
+      <workItem from="1652870950997" duration="42000" />
+      <workItem from="1652898688215" duration="1947000" />
+      <workItem from="1652946924123" duration="121000" />
+      <workItem from="1653061023895" duration="16172000" />
+      <workItem from="1653080933144" duration="1875000" />
+      <workItem from="1653086155511" duration="2502000" />
+      <workItem from="1653169153529" duration="4492000" />
+      <workItem from="1653176771149" duration="2694000" />
+      <workItem from="1653217446565" duration="779000" />
+      <workItem from="1653240865353" duration="1266000" />
+      <workItem from="1653242469363" duration="1000" />
+      <workItem from="1653242693132" duration="15136000" />
+      <workItem from="1653258460273" duration="5603000" />
+      <workItem from="1653264921955" duration="164000" />
+      <workItem from="1653287526148" duration="3025000" />
+      <workItem from="1653293236506" duration="615000" />
+      <workItem from="1653295491211" duration="643000" />
+      <workItem from="1653402767792" duration="35000" />
+      <workItem from="1654514775952" duration="314000" />
+      <workItem from="1654515099881" duration="4785000" />
+      <workItem from="1656282720161" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="old_user_1.get_all_friends()" language="ObjectiveC" />
+        <watch expression="old_user_2.get_all_friends()" language="ObjectiveC" />
+        <watch expression="repo.get_user_by_id(id_user)" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
